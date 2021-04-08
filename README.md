@@ -1,7 +1,7 @@
 # pizza-react
 Deploy: https://deploy-react-pizza-app.herokuapp.com/
 
-#Stack
+# Stack
 - ReactJS
 - Redux
 - redux-thunk 
