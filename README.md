@@ -1,4 +1,7 @@
 # pizza-react
+
+React Pizza - это интернет-магазин пицц. Приложение разработано на основе курса автора [`Archakov06`](https://github.com/Archakov06) и немного доработано.
+
 Deploy: https://deploy-react-pizza-app.herokuapp.com/
 
 # Stack
